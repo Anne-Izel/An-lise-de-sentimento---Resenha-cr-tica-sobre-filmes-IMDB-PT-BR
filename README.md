@@ -1,0 +1,1 @@
+# An-lise-de-sentimento---Resenha-cr-tica-sobre-filmes-IMDB-PT-BR
